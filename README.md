@@ -15,6 +15,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  : Ahmad Aldi Setiaean
+Nama  : Ahmad Aldi Setiawan
 <br>
 NIM   : 119140090
